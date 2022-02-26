@@ -1,0 +1,479 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The old Protestants letanie: against all sectaries, and their defendants, both Presbyterians, and Independants. / Composed by a lover of God, and King Charles.</title>
+            <author>Alleyn, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75034</idno>
+            <idno type="STC">Wing A1201</idno>
+            <idno type="STC">Thomason E405_5</idno>
+            <idno type="STC">ESTC R201875</idno>
+            <idno type="EEBO-CITATION">99862364</idno>
+            <idno type="PROQUEST">99862364</idno>
+            <idno type="VID">160471</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75034)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160471)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E405[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The old Protestants letanie: against all sectaries, and their defendants, both Presbyterians, and Independants. / Composed by a lover of God, and King Charles.</title>
+                  <author>Alleyn, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare of hope, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A lover of God, and King Charles = Thomas Alleyn.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Sept: 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian sects --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160471:1" rendition="simple:additions"/>
+            <p>The Old PROTESTANTS LETANIE: Againſt all Sectaries, and their Defendants, Both Presbyterians, and Independants.</p>
+            <p>
+               <hi>Compoſed by a Lover of</hi> GOD, <hi>and King</hi> CHARLES.</p>
+            <p>Printed in the yeare of Hope, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="mock_litany">
+            <pb facs="tcp:160471:2"/>
+            <pb n="1" facs="tcp:160471:2"/>
+            <head>The Old PROTESTANTS' LETANIE.</head>
+            <lg>
+               <l>THat thou wilt be pleas'd to grant our Requeſts,</l>
+               <l>And quite to deſtroy all the Vipers Neſts,</l>
+               <l>That <hi>England</hi> and her true Religion moleſts;</l>
+               <l>
+                  <hi>Te rogamus audi nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That thou wilt be pleas'd to cenſure with pitie</l>
+               <l>The preſent eſtate of our (once) famous Citie,</l>
+               <l>Let her ſtill be govern'd by men juſt and wittie;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That thou wilt be pleas'd to conſider the <hi>Tower,</hi>
+               </l>
+               <l>And all other Priſons in the Parliaments power,</l>
+               <l>Where King <hi>Charles</hi> his friends finde their welcome but ſowre;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That thou wilt be pleas'd to looke on the griefe</l>
+               <l>Of the Kings old ſervants, and ſend them reliefe,</l>
+               <l>Reſtore to the Yeomen o'th' Guard Chines of Beefe;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That thou wilt be pleas'd very quickly to bring</l>
+               <l>Unto his juſt Rights our ſo much wrong'd King,</l>
+               <l>That he may be happy in every thing;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That <hi>White-Hall</hi> may ſhine in its priſtine Luſter,</l>
+               <l>That the Parliament may make a generall Muſter,</l>
+               <l>That Knaves may be puniſh'd by men who are Juſter;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <pb n="2" facs="tcp:160471:3"/>
+            <lg>
+               <l>That now the Dog-dayes are fully expired,</l>
+               <l>That thoſe curſed Curs which our patience have tyred,</l>
+               <l>May ſuffer what is by true Juſtice required;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That thou wilt be pleas'd to incline conqu'ring <hi>Thomas,</hi>
+               </l>
+               <l>(Who now hath both Citie and <hi>Tower</hi> gotten from us)</l>
+               <l>That he may be juſt in performing his promiſe;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That our hopefull Prince, and our gracious Queene,</l>
+               <l>(Whom we here in <hi>England</hi> long time have not ſeene)</l>
+               <l>May ſoone be reſtored to what they have beene;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That the reſt of the Royall Iſſue may bee</l>
+               <l>From their Parliamentarie Guardians ſet free,</l>
+               <l>And be kept according to their high Degree;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That our ancient Liturgie may be reſtor'd,</l>
+               <l>That the Orgins (by Sectaries ſo much abhor'd)</l>
+               <l>May ſound Divine Prayſes, according to th'Word;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That the Ring in Marriage, the Croſſe at the Font,</l>
+               <l>(Which the Devill &amp; the Round-heads ſo much doth aff<g ref="char:EOLhyphen"/>ront</l>
+               <l>May be uſed again, as before they were wont;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That Epiſcopacie us'd in its right kind,</l>
+               <l>In <hi>England</hi> once more entertainment may find,</l>
+               <l>That Sects and lewd Factions may goe downe the wind;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <pb n="3" facs="tcp:160471:3"/>
+            <lg>
+               <l>That thou wilt be pleaſed againe to reſtore</l>
+               <l>All things in due order, as they were before,</l>
+               <l>That the Church and the State may be vexed no more;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That all the Kings friends may enjoy their Eſtates,</l>
+               <l>And not be kept as they have been, at low Rates,</l>
+               <l>That the poore may find comfort againe at their Gates;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That thou wilt all our Oppreſſions remove,</l>
+               <l>And grant us firm Faith &amp; Hope, joyn'd with true Love,</l>
+               <l>Convert or confound all which Vertue reprove;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That all peeviſh Sects, that would live uncontroul'd,</l>
+               <l>And will not be govern'd as true Subjects ſhould,</l>
+               <l>T'new <hi>England</hi> may pack, or live quiet i'th'old;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That gracious King <hi>Charles,</hi> with his Children and Wife,</l>
+               <l>Who long time have ſuffer'd through this Civill Strife,</l>
+               <l>May end with high honour this naturall Life;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That they who have ſeized on honeſt mens Treaſure,</l>
+               <l>Onely for their Loyaltie to God and <hi>Caeſar,</hi>
+               </l>
+               <l>May in time convenient find meaſure for meaſure;</l>
+               <l>
+                  <hi>Te rogamus &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That thou all theſe bleſſings upon us wilt ſend,</l>
+               <l>We are no Independants, on thee wee depend,</l>
+               <l>And as we beleeve, from all harme us defend,</l>
+               <l>
+                  <hi>Te rogamus, &amp;c.</hi>
+               </l>
+            </lg>
+            <pb n="4" facs="tcp:160471:4"/>
+            <lg>
+               <l>From all Sects and Schiſme, and all falſe opinions,</l>
+               <l>From Browniſts, from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amiliſts, and from Arminians,</l>
+               <l>Which long have moleſted the King and's Dominions</l>
+               <l>
+                  <hi>Libera nos andi nos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From <hi>John Presbyter</hi> and <hi>James Independant,</hi>
+               </l>
+               <l>(Who are to catch others in malice tranſcendant)</l>
+               <l>Who ſtill ſtir up ſtrife and would ne'r know an end on't,</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From <hi>Burton,</hi> from <hi>Baſtwicke,</hi> and <hi>Pryn,</hi> which (O wonder)</l>
+               <l>All ſuffering alike (by that Law they liv'd under)</l>
+               <l>Are ſince in opinions ſo farre ſtept aſunder,</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From wicked Church-ſpoylers and Villains, that makes</l>
+               <l>The Houſe of Gods worſhip as vile as a Jakes,</l>
+               <l>And from it all ancient true Diſcipline takes,</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From fat-belly'd <hi>Peters</hi> (that letcherous Goat,)</l>
+               <l>Who though in the Pulpit he opens his throat,</l>
+               <l>Yet will in a Tavern take up a Whores Coat,</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From all preaching women, and expounding Weavers,</l>
+               <l>From Broom-men and Goblers, who do their endevors,</l>
+               <l>To draw to their Conventicles honeſt Beleevers,</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From all Anabaptiſts, and their re-baptizing,</l>
+               <l>From new Directories, and new catechizing,</l>
+               <l>From Miniſters who doe affect temporizing,</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <pb n="5" facs="tcp:160471:4"/>
+            <lg>
+               <l>From zealous Free Quarter and Aegyptian lending,</l>
+               <l>From Plunder that is not accounted offending,</l>
+               <l>From thoſe that deſire of our gettings the ſpending,</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From ayde of the <hi>Scots,</hi> or any ſuch need,</l>
+               <l>From all who doe make more haſte then good ſpeed,</l>
+               <l>From a two hundred thouſand pound paſſage or <hi>Tweed;</hi>
+               </l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From the mercy of Enemies late reconcil'd,</l>
+               <l>From the beds of women who have been defil'd,</l>
+               <l>From an honeſt man fathering a knave-gotten child;</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From all factious Rebels and perfidious Traytors,</l>
+               <l>From all envious Cynicks and zealous King-haters,</l>
+               <l>From all hypocriticall meer verball praters;</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From thoſe who have liv'd upon other mens ſpoile,</l>
+               <l>And have eaten that bread for which good men did toile,</l>
+               <l>That live fat and idle, like horſes at ſoyle;</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From unjuſt Committee-men and falſe Exciſe-men,</l>
+               <l>Who after mens Livings are uſe to priſe men,</l>
+               <l>And yet to the world appeare wondrous preciſe men;</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From poling Projectors (the bane of a Nation)</l>
+               <l>From new-found devices to cauſe our vexation,</l>
+               <l>From the covetous forme of a new Corporation,</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <pb n="6" facs="tcp:160471:5"/>
+            <lg>
+               <l>From over-growne Parliaments and Ordinances,</l>
+               <l>As <hi>Zani's</hi> (to Statutes) to play with mens fancies,</l>
+               <l>Thus bringing fond fooles into phantaſtick trances;</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From hatred and malice, and treacherous words,</l>
+               <l>From Guns and Poleaxes, from Pikes and from Swords,</l>
+               <l>From Ladies that play faſt and looſe with their Lords;</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From Priſons and Hoſpitalls, and ſuch like things,</l>
+               <l>Alſo from the cauſes which thither us brings,</l>
+               <l>From any mans anger, but chiefly the Kings;</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From Bailiffes, from Sergeants, and their ſubtle Setters,</l>
+               <l>From mercileſſe Creditors, and unjuſt Debters,</l>
+               <l>And from <hi>Harry Walkers</hi> Kings (counterfeit) Letters;</l>
+               <l>
+                  <hi>Libera <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From all lying ſpirits, whoſe onely <gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>ion</l>
+               <l>Is bent to the furthering ſtrife and diſſentor,</l>
+               <l>From all ſuch falſe knaves whom I lately did mention;</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From Blaſphemy, Sacriledge, and foule offences,</l>
+               <l>From forraigne invaſions and home-bred pretences,</l>
+               <l>Which hath put mad <hi>England</hi> to needleſſe expences;</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>From hell-bred Incendiaries, which now of late</l>
+               <l>Hath wrought ſo much miſchiefe both to Church and State,</l>
+               <l>From thoſe who wiſh fighting were nere out of date;</l>
+               <l>
+                  <hi>Libera nos, &amp;c.</hi>
+               </l>
+            </lg>
+            <closer>AMEN.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
